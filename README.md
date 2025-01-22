@@ -6,7 +6,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Screenshot
 
-![ScreenShot](./design/screenshot.png)
+![ScreenShot](/design/screenshot.png)
 
 
 ### Links
