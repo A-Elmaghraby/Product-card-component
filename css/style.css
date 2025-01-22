@@ -29,11 +29,11 @@ p {
     font-weight: 500;
     color: var(--Dark-grayish-blue);
     font-size: 0.9rem;
+    line-height: 1.5;
 }
 
 body {
     height: 100vh;
-    line-height: 1.6;
 }
 
 main {
