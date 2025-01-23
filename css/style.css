@@ -5,7 +5,6 @@
     --Very-dark-blue: hsl(212, 21%, 14%);
     --Dark-grayish-blue: hsl(228, 12%, 48%);
     --White: hsl(0, 0%, 100%);
-
     /* Fonts */
     --font-Montserrat: "Montserrat", sans serif;
     --font-Fraunces: "Fraunces", serif;
@@ -91,13 +90,13 @@ main {
     justify-content: flex-start;
     align-items: center;
 }
-.product__content .product__price__discount{
+.product__content .product__price__discount {
     font-family: var(--font-Fraunces);
     color: var(--dark-cyan);
     font-size: 2rem;
     margin-right: 15px;
 }
-.product__content .product__price__original{
+.product__content .product__price__original {
     color: var(--Dark-grayish-blue);
     font-size: 0.8rem;
     text-decoration: line-through;
