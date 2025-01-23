@@ -6,12 +6,12 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Screenshot
 
-![ScreenShot](design/screenshot.png)
+![ScreenShot](/design/screenshot.png)
 
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/product-card-component-Ily15Jgek5)
 
 ## My process
 
