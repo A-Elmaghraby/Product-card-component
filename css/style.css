@@ -69,7 +69,7 @@ main {
     justify-content: space-between;
     padding: 35px;
 }
-.product__content > span{
+.product__content .perfume{
     color: var(--Dark-grayish-blue);
     font-size: 0.5rem;
     font-weight: 500;
