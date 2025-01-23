@@ -118,7 +118,7 @@ main {
 
 }
 .product__content .card__btn::before {
-    content: url("/images/icon-cart.svg");
+    content: url("./images/icon-cart.svg");
     font-weight: 500;
     margin-right: 10px;
 }
