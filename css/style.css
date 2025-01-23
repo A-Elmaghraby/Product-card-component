@@ -69,7 +69,7 @@ main {
     justify-content: space-between;
     padding: 35px;
 }
-.product__content .product__title{
+.product__content > span{
     color: var(--Dark-grayish-blue);
     font-size: 0.5rem;
     font-weight: 500;
@@ -78,7 +78,7 @@ main {
 
 }
 
-.product__content .product__subtitle {
+.product__content .product__title {
 
     font-family: var(--font-Fraunces);
     color: var(--Very-dark-blue);
